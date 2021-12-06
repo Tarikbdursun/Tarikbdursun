@@ -5,3 +5,4 @@
 -  📫 How to reach me:
 >  Linkedin: www.linkedin.com/in/tarikbugradursun <br/>
 >  Discord: killatirrek#3472
+>  E-Mail: tarikbdursun@gmail.com <br/>
