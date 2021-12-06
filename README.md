@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning C# & Unity3D
 -  📫 How to reach me:
 >  Linkedin: www.linkedin.com/in/tarikbugradursun <br/>
->  Discord: killatirrek#3472
->  E-Mail: tarikbdursun@gmail.com <br/>
+>  Discord: killatirrek#3472  <br/>
+>  E-Mail: tarikbdursun@gmail.com
